@@ -19,5 +19,4 @@ The objective of Credit Risk Analysis is to apply machine learning to solve the 
 
 
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-
+Across the board the precision matrix is the same for every model, that is very low and not applicable. Most of the models generate a slightly above 50% accuracy rate which is not effective when it comes to analysing high risk loans. The only exception is the EasyEnsembleClassifier with a balanced accuracy score of 93% making it the most accurate model compared to the other machine learning models. Therefore, the EasyEnsembleClassifier should be the only one to be used to reduce bias to predict credit risk. 
