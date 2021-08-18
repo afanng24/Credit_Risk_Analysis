@@ -1,7 +1,5 @@
 # Credit Risk Analysis
 
-
-
 ## Overview of Project
 The objective of Credit Risk Analysis is to apply machine learning to solve the real world challenge of credit card risk. To achieve our goal we will use the RandomOverSampler and SMOTE algorithms to oversample the dataset. Afterwards, we will undersample the data using the ClusterCentroids algorithm. In the end we will compare between the BalancedRandomForestClassifier and EasyEnsembleClassifier to see which one reduces bias to predict credit risk.
 ## Resources
@@ -11,7 +9,8 @@ The objective of Credit Risk Analysis is to apply machine learning to solve the 
 
 ## Results
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
-
+- fsd
+- sdfsdf
 
 
 ## Summary
