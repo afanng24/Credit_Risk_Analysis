@@ -9,8 +9,10 @@ The objective of Credit Risk Analysis is to apply machine learning to solve the 
 
 ## Results
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
-- fsd
-- sdfsdf
+- The RandomOverSampler has a balanced accuracy score of just under 66% with a predicted high risk of 73 and predicted low risk of 28. ![RandomOversamplingResults](https://user-images.githubusercontent.com/82983000/129909679-191b1836-c275-4cb5-9328-a468d9fe3225.png)
+
+- 
+
 
 
 ## Summary
