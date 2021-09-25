@@ -5,7 +5,7 @@ The objective of Credit Risk Analysis is to apply machine learning to solve the 
 ## Resources
 **Source of Data** : LoanStats_2019Q1.csv 
 
-**Software** : Python, Pandas, Jupyter Notebook,
+**Software** : Python, Pandas, Jupyter Notebook
 
 ## Results
 
